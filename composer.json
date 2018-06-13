@@ -1,0 +1,17 @@
+{
+  "name": "MyMusicApi",
+  "authors": [
+    {
+      "name": "Baljit Karwal",
+      "email": "karwal.bubble@gmail.com"
+    }
+  ],
+  "require": {
+
+  },
+  "autoload": {
+    "psr-0": {
+      "": ["controller/", "model/", "./"]
+    }
+  }
+}
